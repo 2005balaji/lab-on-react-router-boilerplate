@@ -9,8 +9,8 @@ function Navbar() {
             <img src={logo} alt="" />
 
             <div className="links">
-                <Link to="/Contact">Contact</Link>
-                <br />
+                <Link to="/Contact">Contact</Link> 
+                ㅤㅤ
                 <Link to="/About">About</Link>
             </div>
 
